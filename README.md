@@ -8,8 +8,16 @@ This comms plan implements the PACE (Primary Alternate Contingent Emergency) met
 This plan is a work in progress.
 
 1. Primary (including weekly net)
-   - Linked repeater system
-
+   1. Linked repeater system
+2. Alternate
+   1. Repeater not linked
+3. Contingent
+   1. 144.425
+   2. 144.450
+4. EMERGECY
+   1. 430.025 Digital
+   2. 40 meter NVIS
+   
 
 1. Primary, (weekly net)
 - Linked repeater system
