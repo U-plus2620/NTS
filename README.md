@@ -11,7 +11,7 @@ This plan is a work in progress.
    - Linked repeater system
 2. Alternate
    - Repeater not linked
-3. Contingent
+3. Contingent, simplex
    - 144.425
    - 144.450
 4. EMERGECY
