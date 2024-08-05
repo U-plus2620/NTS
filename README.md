@@ -8,9 +8,9 @@ This comms plan implements the PACE (Primary Alternate Contingent Emergency) met
 This plan is a work in progress.
 VHF freq's:
    1. Primary, (weekly net)
-     -Linked repeater system 
+     - Linked repeater system 
    2. Alternate,
-     -Repeaters not linked
+     - Repeaters not linked
    3. Contingent,
      1.144.425
      2.144.450
