@@ -28,7 +28,7 @@ It is within this mindset that drove me to these particular decisions. I am tryi
    - 40 meter NVIS
 
 Primary.  
-Linked repeater system
+Linked repeater system.  
 For loss of primary communication (e.g. cellular) and weekly net.
 The linked repeater system was chosen as primary for the following reasons;
 - It covers a large area.
