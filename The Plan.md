@@ -41,7 +41,7 @@ For loss of link on the linked repeaters.
 The stand alone repeaters were chosen as Alternae for the following reasons;
 - Due to the placement of the repeaters it is possible that a large number of operators can access one repeater and communicate on that repeater together.
 
-Contingent.
+Contingent.\n
 Simplex VHF
 For loss of repeaters (e.g. power outage, jamming etc.)
 Simplex was chosen due to many operators having easier access to VHF than HF (as far as I know).
