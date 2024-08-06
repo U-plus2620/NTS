@@ -29,7 +29,7 @@ It is within this mindset that drove me to these particular decisions. I am tryi
 
 Primary.  
 Linked repeater system.  
-For loss of primary communication (e.g. cellular) and weekly net.
+For loss of primary communication (e.g. cellular) and weekly net.  
 The linked repeater system was chosen as primary for the following reasons;
 - It covers a large area.
 - Even from within an affected area one may still be able to use a repeater connected the linked system due to the repeaters being placed on high grounds for large coverage.
