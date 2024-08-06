@@ -50,6 +50,6 @@ EMERGENCY.
 - UFH digital.  
 - 40 meter nvis.  
 If VHF simplex doesnt work for some reason.  
-UHF digital was chosen due to UHF having good propogation in urban enviroments along with digital having good range and sometimes error correction to further compliment UHF capabilities.  
+UHF digital was chosen due to UHF having good propogation in urban enviroments along with digital having good range and (sometimes) error correction to further compliment UHF capabilities.  
 NVIS is a last ditch effort for voice comms or digital comms.   
 NVIS is the last option being that an appropriate antenna and antenna instalation may prove to be problematic for most( as far as I know).  
