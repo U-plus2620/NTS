@@ -6,7 +6,8 @@ Discussions, ideas, frequency lists and time tables for the net can be found in 
 Your maidenhead grid square can be found [here](https://www.levinecentral.com/ham/grid_square.php)
 
 This comms plan implements the PACE (Primary Alternate Contingent Emergency) method. You can read some more about the PACE method [here](https://www.trex-arms.com/articles/).
-This plan is a work in progress.
+
+*This plan is a work in progress.*
 
 1. Primary (including weekly net)
    - Linked repeater system
