@@ -35,21 +35,21 @@ The linked repeater system was chosen as primary for the following reasons;
 - Even from within an affected area one may still be able to use a repeater connected the linked system due to the repeaters being placed on high grounds for large coverage.
 - For non emergency use, for instance our weekly nets, these repeaters are very accessable and comfortable to use
 
-Alternate.  
-Stand alone repeaters
-For loss of link on the linked repeaters.
+Alternate.   
+Stand alone repeaters.  
+For loss of link on the linked repeaters.  
 The stand alone repeaters were chosen as Alternae for the following reasons;
 - Due to the placement of the repeaters it is possible that a large number of operators can access one repeater and communicate on that repeater together.
 
-Contingent.
-Simplex VHF
-For loss of repeaters (e.g. power outage, jamming etc.)
+Contingent.  
+Simplex VHF.  
+For loss of repeaters (e.g. power outage, jamming etc.)  
 Simplex was chosen due to many operators having easier access to VHF than HF (as far as I know).
 
-EMERGENCY.
-UFH digital
-40 meter nvis
-If VHF simplex doesnt work for some reason.
-UHF digital was chosen due to UHF having good propogation in urban enviroments along with digital having good range and sometimes error correction to further compliment UHF capabilities.
-NVIS is a last ditch effort for voice comms or digital comms. 
-NVIS is the last option being that an appropriate antenna and antenna instalation may prove to be problematic for most( as far as I know).
+EMERGENCY.  
+- UFH digital.  
+- 40 meter nvis.  
+If VHF simplex doesnt work for some reason.  
+UHF digital was chosen due to UHF having good propogation in urban enviroments along with digital having good range and sometimes error correction to further compliment UHF capabilities.  
+NVIS is a last ditch effort for voice comms or digital comms.   
+NVIS is the last option being that an appropriate antenna and antenna instalation may prove to be problematic for most( as far as I know).  
