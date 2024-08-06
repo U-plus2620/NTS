@@ -27,7 +27,7 @@ It is within this mindset that drove me to these particular decisions. I am tryi
    - 430.025 Digital
    - 40 meter NVIS
 
-Primary. 
+Primary.  
 Linked repeater system
 For loss of primary communication (e.g. cellular) and weekly net.
 The linked repeater system was chosen as primary for the following reasons;
@@ -35,7 +35,7 @@ The linked repeater system was chosen as primary for the following reasons;
 - Even from within an affected area one may still be able to use a repeater connected the linked system due to the repeaters being placed on high grounds for large coverage.
 - For non emergency use, for instance our weekly nets, these repeaters are very accessable and comfortable to use
 
-Alternate. 
+Alternate.  
 Stand alone repeaters
 For loss of link on the linked repeaters.
 The stand alone repeaters were chosen as Alternae for the following reasons;
