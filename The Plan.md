@@ -14,7 +14,7 @@ The criteria that differentiates the ranking between different levels and method
 For instance NVIS propogation is more robust than than an Allstar repeater but is not as easily accesable to everyone due to a number of constraints.
 It is within this mindset that drove me to these particular decisions. I am trying to make a plan that starts with the most accessable and down to the most robust.
 
-#The plan
+## The plan. 
 
 1. **P**rimary (including weekly net)
    - Linked repeater system
