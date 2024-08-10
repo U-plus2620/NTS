@@ -10,9 +10,7 @@ EMERGENCY
 
 Two criteria have been chosen in order to decide which method to place as primary alternate etc.
 These criteria are;
-{::comment}
-The criteria that differentiates the ranking between different levels and methods of the plan depend on 2 things;
-{:/comment}
+
 1. How accessable the method is
 2. How robust the method is
 For instance NVIS propogation is more robust than than an Allstar repeater but is not as easily accesable to everyone due to a number of constraints.
