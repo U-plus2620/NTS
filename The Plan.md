@@ -1,8 +1,8 @@
 *THIS PLAN IS A WORK IN PROGRESS*
 
 # The goal. 
-The goal of this plan is to a communications methodolody to make use of all communication tools at the disposal of the ham radio operator.
-The plan is based on the *PACE* method. PACE is an acronym for 
+The goal of this plan is to create a communications methodolody that makes use of all the communication tools at the disposal of the ham radio operator.
+This plan was written using the *PACE* method. PACE is an acronym for:
 Primary
 Alternate
 Contingent
